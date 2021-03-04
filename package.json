@@ -2,7 +2,7 @@
   "name": "react-api-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mudassirsayed.github.io/react-api-project/",
+  "homepage": "https://mudassirsayed.github.io/currency-search/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
